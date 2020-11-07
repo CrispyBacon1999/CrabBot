@@ -1,0 +1,6 @@
+password.txt
+node_modules
+dist
+qotd.json
+.env
+.cache
